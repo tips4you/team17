@@ -1,0 +1,9 @@
+{
+	"name": "datapipeline-abcz",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7e8a192-fbb8-4489-8a6f-a1f0767b6ae9",
+		"tenantId": "c13ff1c3-5586-402b-b8c3-abdb27726da1"
+	}
+}
