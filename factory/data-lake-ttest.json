@@ -1,0 +1,9 @@
+{
+	"name": "data-lake-ttest",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee94fba6-1a26-4eaa-bb8b-ccc69af2daa3",
+		"tenantId": "c13ff1c3-5586-402b-b8c3-abdb27726da1"
+	}
+}
