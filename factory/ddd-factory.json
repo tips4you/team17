@@ -1,0 +1,9 @@
+{
+	"name": "ddd-factory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f01b01e-2911-4a85-8ac5-ebb9a37320f1",
+		"tenantId": "c13ff1c3-5586-402b-b8c3-abdb27726da1"
+	}
+}
